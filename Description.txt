@@ -1,1 +1,2 @@
-TEst
+Predict Soil Humidity using pandas, matplotlib with Random Forest.
+For SuperAI Engineer SS4 IOT Hackathon
